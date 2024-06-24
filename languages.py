@@ -1,0 +1,6 @@
+print("Java")
+print("JavaScript")
+print("Python")
+print("C#")
+print("C++")
+print("Ruby")
