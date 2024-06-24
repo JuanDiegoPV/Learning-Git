@@ -1,6 +1,11 @@
 print("Java - SI")
+print("------------------------")
 print("JavaScript")
+print("------------------------")
 print("Python - SI")
-print("C#")
+print("------------------------")
+print("C#"
+print("------------------------")
 print("C++")
+print("------------------------")
 print("Ruby")
