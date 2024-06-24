@@ -1,6 +1,6 @@
-print("Java")
+print("Java - SI")
 print("JavaScript")
-print("Python")
+print("Python - SI")
 print("C#")
 print("C++")
 print("Ruby")
