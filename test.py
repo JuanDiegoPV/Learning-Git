@@ -1,5 +1,5 @@
-print("Red - Balloon")
-print("Gray - House")
-print("Brown - Window")
-print("Black - Apple")
+print("Blue - Balloon")
+print("Green - House")
+print("White - Window")
+print("Purple - Apple")
 
