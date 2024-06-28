@@ -1,5 +1,5 @@
 print("My family is: ")
-print("Juan Diego")
+print("Juan Diego Peña Valenzuela")
 print("Luis Roberto Valenzuela")
-print("Magda María")
-print("Luis Roberto Gerwert")
+print("Magda María Valenzuela Serrano")
+print("Luis Roberto Peña Gerwert")
